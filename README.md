@@ -1,6 +1,6 @@
 # picoCTF-MATRIX-scripts
 
-There are three scripts used to solve the challenge
+There are four scripts used to solve the challenge.
 
 * matrix.py
   * This script directly simulates the binary involved in the challenge.
